@@ -1,0 +1,19 @@
+{
+  "Buy me coffee": "Achete-moi du café",
+  "Enter your letter": "Entrez votre lettre",
+  "Select letter style": "Sélectionner le style de lettre",
+  "Send": "Envoyer",
+  "Make a suggestion": "Faire une suggestion",
+  "Official": "Officiel",
+  "Journalistic": "Journalistique",
+  "Friendly": "Amical",
+  "Business": "Entreprise",
+  "Art": "Art",
+  "Scientific": "Scientifique",
+  "Children's": "Enfants",
+  "Conversational": "Conversationnel",
+  "Something went wrong. Plese repeat the request letter": "Quelque chose s'est mal passé. Veuillez répéter la lettre de demande",
+  "Copied": "Copié",
+  "Saved": "Enregistré",
+  "Letter is too short. Minimum 80 characters": "La lettre est trop courte. Minimum 80 caractères"
+}

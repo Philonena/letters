@@ -1,0 +1,19 @@
+{
+  "Buy me coffee": "给我买咖啡",
+  "Enter your letter": "输入您的来信",
+  "Select letter style": "选择字母样式",
+  "Send": "发送",
+  "Make a suggestion": "提出建议",
+  "Official": "官方",
+  "Journalistic": "新闻",
+  "Friendly": "友好",
+  "Business": "业务",
+  "Art": "艺术",
+  "Scientific": "科学",
+  "Children's": "儿童",
+  "Conversational": "会话式",
+  "Something went wrong. Plese repeat the request letter": "出了点问题。请重复请求信",
+  "Copied": "已复制",
+  "Saved": "已保存",
+  "Letter is too short. Minimum 80 characters": "信件太短。 至少 80 个字符"
+}

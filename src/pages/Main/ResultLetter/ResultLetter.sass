@@ -1,0 +1,34 @@
+.result-letter
+  position: relative
+  width: 100%
+  max-width: 800px
+  margin: 0 auto
+  animation-duration: .2s
+  animation-name: slidein
+
+  &__icons
+    position: absolute
+    right: 0
+    opacity: 0
+    visibility: hidden
+    z-index: 2
+    transition: .2s
+
+  &:hover .result-letter__icons
+    opacity: 1
+    visibility: visible
+
+  &__input
+    width: 100%
+    transition: .4s
+
+    & div
+      padding: 30px 14px
+      transition: .2s
+
+    & textarea:disabled
+      -webkit-text-fill-color: var(--spanColor) !important
+
+  &__input-copied,
+  &__input-edit
+    box-shadow: inset 0 0 0 500px #cecbcb

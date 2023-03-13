@@ -1,0 +1,19 @@
+{
+  "Buy me coffee": "Cómprame café",
+  "Enter your letter": "Ingresa tu letra",
+  "Select letter style": "Seleccionar estilo de letra",
+  "Send": "Enviar",
+  "Make a suggestion": "Hacer una sugerencia",
+  "Official": "Oficial",
+  "Journalistic": "Periodístico",
+  "Friendly": "Amistoso",
+  "Business": "Negocio",
+  "Art": "Arte",
+  "Scientific": "Científico",
+  "Children's": "Infantil",
+  "Conversational": "Conversacional",
+  "Something went wrong. Plese repeat the request letter": "Algo salió mal. Por favor, repita la carta de solicitud",
+  "Copied": "Copiado",
+  "Saved": "Guardado",
+  "Letter is too short. Minimum 80 characters": "La carta es demasiado corta. Mínimo 80 caracteres"
+}

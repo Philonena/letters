@@ -1,0 +1,29 @@
+:root
+  --spanColor: #535353
+  --fontColor: #000000
+
+*
+  box-sizing: border-box
+  margin: 0
+
+body
+  overflow-y: scroll
+  font-family: 'Roboto', sans-serif
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  background: linear-gradient(180deg, rgba(251, 251, 251, 0.46) 0%, rgba(80, 80, 80, 0.1) 100%)
+
+#root
+  position: relative
+  display: flex
+  flex-direction: column
+  min-height: 100vh
+
+*::-webkit-scrollbar
+  width: 5px
+  height: 5px
+  background-color: transparent
+
+*::-webkit-scrollbar-thumb
+  background-color: var(--spanColor)
+  border-radius: 5px

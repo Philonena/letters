@@ -1,0 +1,22 @@
+.lang-btns
+  display: flex
+  justify-content: flex-end
+
+.lang-btn
+  transition: all .3s !important
+  filter: grayscale(80%)
+
+  & img
+    width: 30px
+
+  &:hover
+    transform: scale(1.15)
+    filter: none !important
+
+  &:disabled
+    transform: scale(1.2)
+    filter: none !important
+
+@media (max-width: 400px)
+  .lang-btn img
+    width: 20px

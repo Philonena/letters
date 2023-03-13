@@ -1,0 +1,19 @@
+{
+  "Buy me coffee": "Купить мне кофе",
+  "Enter your letter": "Введите письмо",
+  "Select letter style": "Выберите стиль письма",
+  "Send": "Отправить",
+  "Make a suggestion": "Внести предложение",
+  "Official": "Официальный",
+  "Journalistic": "Публицистический",
+  "Friendly": "Дружелюбный",
+  "Business": "Бизнес",
+  "Art": "Художественный",
+  "Scientific": "Научный",
+  "Conversational": "Разговорный",
+  "Children's": "Детский",
+  "Something went wrong. Plese repeat the request letter": "Что-то пошло не так. Пожалуйста, повторите запрос позже",
+  "Copied": "Скопировано",
+  "Saved": "Изменено",
+  "Letter is too short. Minimum 80 characters": "Письмо слишком короткое. Минимум 80 символов"
+}
